@@ -4,7 +4,7 @@
 ### Public IP Address
 - http://16.171.141.125
 
-### Screenshots
+### Screenshot
 ![Project Screenshot](./screenshot.png)
 
 ## 
